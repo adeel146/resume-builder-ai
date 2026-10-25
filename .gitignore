@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Third-party layout reference; not part of the project source.
+/Shahroz Sarfraz SQA Engineer (1).pdf
